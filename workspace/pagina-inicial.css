@@ -1,0 +1,17 @@
+.header{
+    background-color: cadetblue;
+}
+.carousel-item>img{
+    max-height: 414px;
+}
+
+.footer{
+    background-color: cadetblue;
+}
+.body{
+    background-color: cadetblue;
+}
+
+.avaliacoes{
+    max-height: 344px;
+}
